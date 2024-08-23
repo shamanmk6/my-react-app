@@ -1,0 +1,20 @@
+[
+    {
+      "id":1,
+      "title": "October schedule",
+      "descr": "patient recheduled to october",
+      "isActive": false
+    },
+    {
+      "id":2,
+      "title": "September schedule",
+      "descr": "patient is on a trip",
+      "isActive": true
+    },
+    {
+      "id":3,
+      "title": "November schedule",
+      "descr": "patient is not available",
+      "isActive": false
+    }
+  ]
